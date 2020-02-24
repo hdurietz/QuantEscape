@@ -1,4 +1,4 @@
- <B><font face="times">Widefield microscopy image processing and analysis</font></B>
+ <B><font face="arial">Widefield microscopy image processing and analysis</font></B>
  
 This document provides a brief overview of the MATLAB program used for widefield microscopy image processing and analysis in th article “Imaging small molecule-induced endosomal escape of siRNA” by Du Rietz et al. submitted to <i>Nature Communications</i> 23 September 2019.
  
