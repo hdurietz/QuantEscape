@@ -6,3 +6,6 @@ All MATLAB code for running QuantEscape, as well as the complete folder structur
 The repository was last updated 24 February 2020.
 
 A Guide for setting up and using QuantEscape is available here and at figshare.
+
+Acknowledgement
+This work was carried out in the lab of Anders Wittrup, Lund University, and supported by funding from the Swedish Society for Medical Research (SSMF). 
