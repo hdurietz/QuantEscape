@@ -7,5 +7,6 @@ The repository was last updated 24 February 2020.
 
 A Guide for setting up and using QuantEscape is available here and at figshare.
 
-# Acknowledgement
+ 
+### Acknowledgement
 This work was carried out in the lab of Anders Wittrup, Lund University, and supported by funding from the Swedish Society for Medical Research (SSMF). 
